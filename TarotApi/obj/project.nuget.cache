@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "peoIntWYs5E8qnRIMd/D66/LaEpnkaI5uu8SdWcZmmemk0jxNI9xLDMaJncGC1pGZZYGL99paZeqPzxOzaDbQw==",
+  "success": true,
+  "projectFilePath": "C:\\TarotApi\\TarotApi\\TarotApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\huggingface\\0.2.4\\huggingface.0.2.4.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\tiktoken\\1.1.2\\tiktoken.1.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

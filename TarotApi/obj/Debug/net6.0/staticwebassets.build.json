@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5jyXGIoFRyi3VOqVRViOm9BeDzDeSbPEXnAwwBzJRSE=",
+  "Source": "TarotApi",
+  "BasePath": "_content/TarotApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
